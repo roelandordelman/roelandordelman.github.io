@@ -6,7 +6,7 @@ subtitle: stuff I do
 
 profile:
   align: right
-  image: RJF.JPG
+  image: RJF.png
   address: >
 
 news: true  # includes a list of news items
