@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <ul>
-<li>Computer Science research meets Cultural Heritage:
+<li>Computer Science Research meets Cultural Heritage:
 <ul>
     <li><a href="https://labs.beeldengeluid.nl">Innovation Labs at Netherlands Institute for Sound and Vision</a></li>
     <li><a href="https://mediasuite.clariah.nl/">CLARIAH Media Suite</a></li>
