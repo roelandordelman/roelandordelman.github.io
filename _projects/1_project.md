@@ -1,13 +1,17 @@
 ---
 layout: page
 title: CLARIAH-PLUS
-description: National Research Infrastructure for Social Sciences and Humanities
+description: Dutch National Research Infrastructure for Social Sciences and Humanities
 img: assets/img/clariah_logo_blue.png
 importance: 1
 category: Infrastructure
 ---
 
-The CLARIAH-PLUS project is developing a research infrastructure for the Social Sciences and Humanities:
+In collaboration with Dutch universities, research institutes and cultural heritage institutes, the CLARIAH-PLUS project is developing the Dutch <b>Research Infrastructure</b> for the Social Sciences and Humanities, that aims to stimulate digital scholarship by providing SSH scholars with online access to rich datasets and tools, seamlessly from behind their personal computers in the laboratory or at home, allowing for collaboration with their peers and students.
+
+I am the <b>Chief Technology Officer</b> (CTO) of the CLARIAH infrastructure and member of the CLARIAH Executive Board and the CLARIAH Board. I'm also involved as a <b>technical coordinator</b> of work package 5 ('Media Studies') that develops the CLARIAH Media Suite, hosted by Netherlands Institute for Sound & Vision.
+
+Links:
 
 <ul>
   <li><a href="https://www.clariah.nl/">CLARIAH home page</a></li>  
