@@ -7,7 +7,20 @@ tags: CLARIAH
 categories: CLARIAH
 ---
 
-Last Wednesday May 25th, we had again our monthly CLARIAH Tech Day to discuss progress of the projects in the CLARIAH Shared Development Roadmap (SDR). This month Netherlands Institute for Sound & Vision was our host.
+Last Wednesday May 25th, we had again our monthly [CLARIAH](https://clariah.nl) Tech Day to discuss progress of the projects in the CLARIAH Shared Development Roadmap (SDR). This month Netherlands Institute for Sound & Vision was our host.
+
+The Shared Development Roadmap aligns a number of projects within CLARIAH with the aim to establish a number of basic components of the CLARIAH Infrastructure:
+
+<ul>
+    <li>A central portal to guide users to relevant parts (data, tools, standards, projects) in the infrastructure (INEO, in development)</li>
+    <li>A central 'FAIR' data & vocabulary registry to guide users to data sets hosted at research and heritage institutes within the infrastructure</li>
+    <li>A central 'FAIR' tool registry to guide users to tools that have been developed within CLARIAH and predecessor projects</li>
+    <li>A 'FAIR' annotation facility that allows users to seamlessly annotate data in various parts of the infrastructure, regardless of data type, to share annotations on different platforms, and to save annotations centrally, keeping provenance information</li>
+    <li>A 'FAIR' Data Stories infrastructure that aims to provide a stable workflow for quantitative data analysis and visualisation, using linked data technologies and facilities such as Jupyter Notebooks</li>
+    <li>A Distribution and Deployment framework for sharing software and services within the CLARIAH infrastructure and beyond.</li>  
+</ul>
+
+One of the main topics we discussed was the about the '[Software & Infrastructure Requirements](https://github.com/CLARIAH/clariah-plus/tree/main/requirements)' we have defined in the past few months. The aim is to align these requirements both CLARIAH internally in order to have a common agreement on the way we develop, service and maintain software within the infrastructure, and externally, in order to investigate and discuss alignments with infrastructure projects and providers on a national and European level.  
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -20,25 +33,3 @@ Last Wednesday May 25th, we had again our monthly CLARIAH Tech Day to discuss pr
         {% include figure.html path="assets/img/events/gereserveerd.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-
-
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
-<hr>
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-<blockquote>
-    We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-    —Anais Nin
-</blockquote>
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
