@@ -5,7 +5,7 @@ permalink: /projects/
 description: projects I work on
 nav: true
 nav_order: 1
-display_categories: [Infrastructure]
+display_categories: [Infrastructure, Labs, Research, Music]
 horizontal: false
 ---
 
