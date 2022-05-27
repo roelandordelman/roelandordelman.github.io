@@ -10,8 +10,8 @@ category: Infrastructure
 The CLARIAH-PLUS project is developing a research infrastructure for the Social Sciences and Humanities:
 
 <ul>
-  <li>[CLARIAH home page](https://www.clariah.nl/)</li>  
-  <li>[CLARIAH Media Suite](https://mediasuite.clariah.nl/) (hosted at Netherlands INstitute for Sound & Vision) </li>
-  <li>[CLARIAH Shared Development Roadmap](https://github.com/CLARIAH/clariah-plus/blob/main/shared-development-roadmap/introduction.md)</li>
-  <li>[CLARIAH and NISV Labs](https://labs.beeldengeluid.nl/projects/clariah-plus)</li>    
+  <li><a href="https://www.clariah.nl/">CLARIAH home page</a></li>  
+  <li><a href="https://mediasuite.clariah.nl/">CLARIAH Media Suite</a> (hosted at Netherlands INstitute for Sound & Vision) </li>
+  <li><a href="https://github.com/CLARIAH/clariah-plus/blob/main/shared-development-roadmap/introduction.md">CLARIAH Shared Development Roadmap</a></li>
+  <li><a href="https://labs.beeldengeluid.nl/projects/clariah-plus">CLARIAH and NISV Labs</a></li>    
 </ul>  
