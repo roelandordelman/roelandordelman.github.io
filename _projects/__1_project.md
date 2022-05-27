@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: CLARIAH-PLUS
+description: National Research Infrastructure for Social Sciences and Humanities
+img: assets/img/clariah_logo_blue.png
 importance: 1
-category: work
+category: Infrastructure
 ---
 
 Every project has a beautiful feature showcase page.
