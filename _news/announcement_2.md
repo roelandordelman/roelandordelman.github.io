@@ -1,15 +1,14 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2022-05-27
+title: Monthly CLARIAH Tech Day, this time at NISV
+date: 2022-05-25
 inline: false
 ---
 
-Wednesday May 25th, we had our monthly CLARIAH Tech Day to discuss progress of the CLARIAH Shared Development Roadmap.
+
+On Wednesday May 25th, we had again our monthly [CLARIAH](https://clariah.nl) Tech Day to discuss progress of the projects in the [CLARIAH Shared Development Roadmap](https://github.com/CLARIAH/clariah-plus/tree/main/shared-development-roadmap) (SDR). After meetings at Royal Library and IISG, this time Netherlands Institute for Sound & Vision was our host.
 
 ***
-
-Last Wednesday May 25th, we had again our monthly [CLARIAH](https://clariah.nl) Tech Day to discuss progress of the projects in the [CLARIAH Shared Development Roadmap](https://github.com/CLARIAH/clariah-plus/tree/main/shared-development-roadmap) (SDR). After meetings at Royal Library and IISG, this time Netherlands Institute for Sound & Vision was our host.
 
 The Shared Development Roadmap aligns a number of projects within CLARIAH with the aim to establish a number of basic components of the CLARIAH Infrastructure:
 
