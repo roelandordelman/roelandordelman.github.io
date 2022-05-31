@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DARIAH and DHBenelux
+title: DARIAH Annual Event and DHBenelux 2022
 date: 2022-05-31
 inline: false
 ---
