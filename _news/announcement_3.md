@@ -12,7 +12,7 @@ This week we present our CLARIAH work on the [DARIAH annual event](https://annua
 [DARIAH](https://annualevent.dariah.eu/programme/):
 
 <ul>
-    <li><b>[Data Stories in CLARIAH — Developing a Research Infrastructure for Storytelling with Heritage and Culture Data](https://doi.org/10.5281/zenodo.6597110)</b> (Roeland Ordelman, Willemien Sanders, Richard Zijdeman, Rana Klein, Julia Noordegraaf, Jasmijn Van Gorp, Mari Wigham, Menzo Windhouwer) -- poster sessions on Wednesday and Thursday</li>
+    <li><b><a href="https://doi.org/10.5281/zenodo.6597110">Data Stories in CLARIAH — Developing a Research Infrastructure for Storytelling with Heritage and Culture Data</a></b> (Roeland Ordelman, Willemien Sanders, Richard Zijdeman, Rana Klein, Julia Noordegraaf, Jasmijn Van Gorp, Mari Wigham, Menzo Windhouwer) -- poster sessions on Wednesday and Thursday</li>
 </ul>
 
 [DHBenelux](https://2022.dhbenelux.org/schedule/):
