@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AVA_Net Symposium on 23rd of June 2020: Audiovisual Heritage Data as a Source for Research
+title: AVANet Symposium on 23rd of June 2020
 date: 2022-06-01
 inline: false
 ---
