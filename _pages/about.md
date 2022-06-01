@@ -14,21 +14,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-# <div class="row">
-#    <div class="col-sm mt-3 mt-md-0">
-#        {% include figure.html path="assets/img/logos/B&G_logo_RGB.png" title="example image" class="img-fluid rounded z-depth-1" %}
-#    </div>
-#    <div class="col-sm mt-3 mt-md-0">
-#        {% include figure.html path="assets/img/logos/clariah_logo_blue.png" title="example image" class="img-fluid rounded z-depth-1" %}
-#    </div>
-#    <div class="col-sm mt-3 mt-md-0">
-#        {% include figure.html path="assets/img/logos/UT-logo-stacked.png" title="example image" class="img-fluid rounded z-depth-1" %}
-#    </div>
-#    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/logos/logo-openspraak.png" title="example image" class="img-fluid rounded z-depth-1" %}
-#    </div>
-#</div>
-
 
 <ul>
 <li>Computer Science Research meets Cultural Heritage:
