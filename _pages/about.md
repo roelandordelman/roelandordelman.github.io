@@ -31,3 +31,15 @@ social: true  # includes social icons at the bottom of the page
 </ul>
 </li>
 </ul>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/logos/B&G_logo_RGB_blauw.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/logos/UT-logo-stacked.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/logos/logo-openspraak.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
