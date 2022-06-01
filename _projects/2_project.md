@@ -4,7 +4,7 @@ title: Kind in Gesprek met Media
 description: Responsible Child-Robot Interaction in Search for Videos from an Archive (2019-2022)
 img: assets/img/kind-robot-interactie.png
 importance: 1
-category: Conversational Interaction
+category: Interaction
 ---
 
 Funded by SIDN fund and CLICKNL
