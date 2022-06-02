@@ -20,7 +20,7 @@ This week we present our CLARIAH work on the [DARIAH annual event](https://annua
         {% include figure.html path="assets/img/events/dariah2022-discussion.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="caption">
-      Copied this slide from the Panel Session on Data-Driven storytelling through FAIR data, as a reminder of perspectives in the context of data stories and research infrastructure.  
+      Copied this slide from the Panel Session on Data-Driven storytelling through FAIR data (Sharif Islam, Andreas Weber, Sally Chambers, Erzsébet Tóth-Czifra, Kerstin Arnold, Henning Scholz), as a reminder of perspectives in the context of data stories and research infrastructure.  
       </div>
 </div>
 
