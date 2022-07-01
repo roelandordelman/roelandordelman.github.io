@@ -5,26 +5,23 @@ date: 2022-06-30
 inline: false
 ---
 
-On the 30rd of June 2020, the CLARIAH project organised its quarterly Tech Day at the IISG to present and discuss progress on the development of the CLARIAH Infrastructure. 
+On the 30rd of June 2020, the CLARIAH project organised its quarterly Tech Day at the IISG to present and discuss progress on the development of the CLARIAH Infrastructure. We started with a short introduction on how we arrived at the [Shared Development Roadmap](/assets/pdf/20220630-SharedDevelopmentRoadmap2022-2023.pdf) that is clustered around 7 topics that will guide the development of the CLARIAH infrastructure for the coming years:
 
-[Shared Development Roadmap](/assets/pdf/20220630-SharedDevelopmentRoadmap2022-2023.pdf)
+1. How do we aim for FAIR data in CLARIAH? Femmy Admiraal ([Part 1](/assets/pdf/220630_CLARIAH_TechDag_FAIR_data.pdf) and Menzo Windhouwer [Part 2])(/assets/pdf/SDRQ2-demo2022-FAIR_datasets_Vocabs_Data Stories.pdf). 
 
+2. [Vocabularies, what are they for and how do we support them in CLARIAH](/assets/pdf/SDRQ2-demo2022-FAIR_datasets_Vocabs_Data Stories.pdf)
 
-How we aim for FAIR data in CLARIAH. [Part 1](/assets/pdf/220630_CLARIAH_TechDag_FAIR_data.pdf)[Part 2](/assets/pdf/SDRQ2-demo2022-FAIR_datasets_Vocabs_Data Stories.pdf)
+3. [How can we help scholars finding tools they need](https://github.com/orgs/CLARIAH/projects/1)
 
-[Vocabularies, what are they for and how do we support them in CLARIAH](/assets/pdf/SDRQ2-demo2022-FAIR_datasets_Vocabs_Data Stories.pdf)
+4. How can we guide scholars towards the CLARIAH infrastructure and its resources: [Soft-launch of INEO, the CLARIAH Portal](/assets/pdf/2202-06-30_Presentatie_oplevering_Ineo.pdf)
 
-[How we help scholars finding tools they need]()
+5. [How we want to support multimedia, cross-platform annotations in CLARIAH](/assets/FAIR_Annotation_Rolodex-CLARIAH_techday_june_30.pdf)
 
-[Soft-launch of INEO, the CLARIAH Portal](/assets/pdf/2202-06-30_Presentatie_oplevering_Ineo.pdf)
+6. [How CLARIAH aims to facilitate creation of Data Stories & computational scholarship](/assets/pdf/SDRQ2-demo2022-FAIR_datasets_Vocabs_Data Stories.pdf)
 
-[How we want to support multimedia, cross-platform annotations in CLARIAH](/assets/FAIR_Annotation_Rolodex-CLARIAH_techday_june_30.pdf)
+7. How can we build a robust & scalable infrastructure: [Distribution & Deployment, what does this mean](/assets/Distribution_deployment.pdf)
 
-[How CLARIAH aims to facilitate creation of Data Stories & computational scholarship](/assets/pdf/SDRQ2-demo2022-FAIR_datasets_Vocabs_Data Stories.pdf)
-
-[Distribution & Deployment, what does this mean](/assets/Distribution_deployment.pdf)
-
-Connecting with our users
+We closed the meeting with a formal handover of the CLARIAH project lead from Antal van den Bosch to Dirk van Miert who emphasized the need to connect and communicate with the potential users of the CLARIAH infrastructure, in addition to the development work discussed during the Tech Day.
 
 
 <div class="row mt-3">
