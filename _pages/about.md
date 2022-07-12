@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
     <li><a href="https://labs.beeldengeluid.nl">Innovation Labs at Netherlands Institute for Sound and Vision</a></li>
     <li><a href="https://mediasuite.clariah.nl/">CLARIAH Media Suite</a></li>
     <li><a href="https://clariah.nl/">Research Infrastructure for the Social Sciences and Humanities</a></li>
-    <li><a href="https://chatters-cri.github.io/">Search with Robots for Kids</a></li>
+    <li><a href="https://chatters-cri.github.io/">Search with Robots for Kids -- AI4YOUTH</a></li>
     <li><a href="https://openspraaktechnologie.org/">Stimulating Open Speech Technology for Dutch</a></li>
 </ul>
 </li>
