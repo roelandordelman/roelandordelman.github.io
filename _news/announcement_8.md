@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SAVE-THE-DATE -- CLARIAH Symposium (open)
+title: CLARIAH Symposium (SAVE-THE-DATE)
 date: 2022-11-24
 inline: false
 ---
