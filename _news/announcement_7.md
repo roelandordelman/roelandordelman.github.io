@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SAVE-THE-DATE -- CLARIAH INFRA Quarterly (open)
+title: SAVE-THE-DATE CLARIAH INFRA Quarterly
 date: 2022-09-29
 inline: false
 ---
