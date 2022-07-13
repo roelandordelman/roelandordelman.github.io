@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CLARIAH Tech Day Quarterly
-date: 2022-06-30
+date: 2022-09-29
 inline: false
 ---
 
