@@ -1,26 +1,18 @@
 ---
 layout: page
-title: Bring It On
-description: recording & production of R'Jacob Freddy's album (2018-2020)
-img: assets/img/projects/bringiton/RJF-BringItOn2.png
+title: Twi-XL
+description: An infrastructure for cross-media research on public debates (2020-2024)
+img: assets/img/logos/PDI_SSH_LOGO_B.png
 importance: 1
-category: Music
+category: Infrastructure
 ---
 
-The goal of this project was to (re-)record a number of songs of mine, some of them dating from Grafton (rockband active in the '90), and publish them as an official album. As I did everything by myself using home recording equipment it took me some time to record and produce it. Especially the mixing part was time-consuming as I had to learn 'on the fly', dealing with not-so-perfect recordings and relatively basic equipment. However, I was quite pleased with the final result given the circumstances, although it would be really really nice to have the opportunity once to record some of the songs with professional equipment, technicians and of course, musicians! It would also be great to do some live performances with a group of musicians but I guess this would be a matter of stumbling upon opportunities and people as my time is too limited to even thinking of bringing a group together.
+TwiXL develops an infrastructure that enables SSH researchers to systematically examine current and emerging public debates on crucial societal issues in the Netherlands. The proposed infrastructure will be developed along the following three axes:
 
+Deep – continuing and making accessible the TwiNL collection, containing 50% of all Dutch language tweets (2011-), allowing for a systematic exploration of the Dutch Twitter sphere on any societal topic.
 
-Links:
+Broad – curating and making accessible Dutch language collections of social media and web data, as well as newspaper reports, radio and television broadcasts on prominent societal issues (2020-2025), enabling innovative cross-media research.
 
-<ul>
-  <li>Bring It On on <a href="https://open.spotify.com/album/4YrJx7N4j3NpJGmaOUgQOL?si=BnyNXZmcRki0bw6hhTvzoQ">Spotify</a></li>
-  <li><a href="https://youtu.be/Fz2AsHNB4sQ">The song "Lighthouse" on YouTube</a></li>  
-  <li><a href="https://youtu.be/9NxRYoyoPAU">The song "#Belle_Rebelle" on YouTube</a></li>  
-</ul>  
+Live – facilitating real-time streaming data processing and analysis of Twitter-data, allowing for live monitoring of online public discourse.
 
----
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/bringiton/RJF-BringItOn2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
+Access to all three collections will be provided through a user-friendly web interface and Jupyter Notebooks for more advanced analyses. To develop the new infrastructure and demonstrate its value for research, a team of developers at SURF, KB, and NISV and two postdocs—at UvA and RUG—will closely work together with SSH researchers in proof-of-concept research projects. The infrastructure will be embedded in the CLARIAH Media Suite and the planned ODISSEI Media Content Analysis Laboratory.
